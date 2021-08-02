@@ -1,0 +1,19 @@
+{
+  "name": "nft_engine",
+  "version": "1.0.0",
+  "description": "NFT_Minting_Contracts_BEP721_BEP1155",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvin Reyes",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "truffle-hdwallet-provider-privkey": "^0.3.0",
+    "truffle-plugin-verify": "^0.5.7"
+  }
+}
