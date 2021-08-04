@@ -1,6 +1,6 @@
 # NFT Vanilla Contracts
 
-The repository consits of BEP 721 & BEP 1155 Protocol Minting Contracts.
+The repository consists of BEP 721 & BEP 1155 Protocol Minting Contracts.
 
 # Overview
 We considered use cases of NFTs being owned and transacted by individuals as well as consignment to third party brokers/wallets/auctioneers (“operators”). NFTs can represent ownership over digital or physical assets. We considered a diverse universe of assets, and we know you will dream up many more:
