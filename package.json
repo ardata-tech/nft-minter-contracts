@@ -12,7 +12,7 @@
   "author": "Alvin Reyes",
   "license": "MIT",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/contracts": "^4.7.3",
     "truffle-hdwallet-provider-privkey": "^0.3.0",
     "truffle-plugin-verify": "^0.5.7"
   }
